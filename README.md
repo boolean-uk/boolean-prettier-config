@@ -1,0 +1,1 @@
+# boolean-prettier-config
