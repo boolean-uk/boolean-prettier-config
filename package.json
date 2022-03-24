@@ -1,6 +1,6 @@
 {
   "name": "@boolean-uk/boolean-prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boolean UK Prettier Config",
   "main": "index.json",
   "repository": {
