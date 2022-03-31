@@ -8,7 +8,7 @@ This package helps us configure ESlint and Prettier to work together nicely. Whe
 
 ### Step 1: Install eslint packages and boolean prettier config
 
-`npm install --save-dev eslint-plugin-prettier eslint-config-prettier @boolean-uk/boolean-prettier-config`
+`npm install --save-dev eslint-plugin-prettier eslint-config-prettier prettier @boolean-uk/boolean-prettier-config`
 
 ### Step 2: Update `package.json` to use the prettier config
 
