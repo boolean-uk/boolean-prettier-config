@@ -18,7 +18,7 @@ If you want to use your shared Prettier configuration in other projects, you nee
 {
   "name": "my-cool-library",
   // ...
-  "prettier": "@boolean-uk/boolean-prettier-config"
+  "prettier": "@boolean-uk/boolean-prettier-config",
   // ...
 }
 ```
@@ -38,7 +38,7 @@ module.exports = {
   plugins: ['prettier'],
   rules: {
     'prettier/prettier': ['error']
-  }
+  },
   parserOptions: {
     ecmaVersion: 12
   },
